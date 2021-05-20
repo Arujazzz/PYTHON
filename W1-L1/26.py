@@ -1,0 +1,6 @@
+print(ord("a"))
+print(ord("z"))
+print(chr(ord("a")))
+print(chr(ord("z")))
+print(chr(ord("a") + 1))
+print(chr(ord("z") - 1))
