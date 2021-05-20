@@ -1,0 +1,6 @@
+f = open("in.txt", "r")
+text = f.read()
+text.replace(",", " ")
+#text.replace(":", " ")
+text = text.split(" ")  
+print(len(text))

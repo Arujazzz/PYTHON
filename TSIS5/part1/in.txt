@@ -1,0 +1,9 @@
+Student: Aruzhan Kubayeva
+id: 20bd2024
+year: 1
+gpa: 3.37
+city: Uralsk
+faculty: FIT
+specialty: IS
+hello kbtu
+bigcitylife
