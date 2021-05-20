@@ -1,0 +1,5 @@
+n = int(input())
+h = int(n//3600)
+m = int((n - (3600*(n//3600)))//60)
+print("It is {0} hours {1} minutes.".format(h, m))
+#print(h)
